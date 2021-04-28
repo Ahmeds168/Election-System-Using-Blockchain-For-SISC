@@ -1,0 +1,11 @@
+{
+  "registrarDistinguishedName": "San Francisco Municipality Registrar",
+  "registrarOrg": "San Francisco Org",
+  "registrarLocality": "North Sindh",
+  "registrarState": "Sindh",
+  "registrarCountry": "Pakistan",
+  "registrarPrecinctNums": [1,2,3],
+  "electionName": "Election System Using Blockchain For SISC",
+  "electionCountry": "IBA",
+  "electionYear": 2020
+}
